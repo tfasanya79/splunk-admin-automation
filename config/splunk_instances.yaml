@@ -1,0 +1,9 @@
+
+dev:
+  host: "https://splunk-dev.example.com:8089"
+  username: "admin"
+  password: "changeme"
+
+prod:
+  host: "https://splunk-prod.example.com:8089"
+  token: "Splunk eyJhbGciOi..."
