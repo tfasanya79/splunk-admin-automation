@@ -3,7 +3,7 @@
 # Configurable values
 VM_NAME="Splunk-Automation-Lab"
 VM_OS_TYPE="Ubuntu_64"
-ISO_PATH="$HOME/Downloads/ubuntu-22.04.4-desktop-amd64.iso"
+ISO_PATH="$HOME/Downloads/ubuntu-24.04.2-desktop-amd64.iso"
 HDD_SIZE=40000
 RAM_SIZE=4096
 CPU_COUNT=2
