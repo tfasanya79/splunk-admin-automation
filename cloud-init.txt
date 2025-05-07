@@ -1,0 +1,3 @@
+
+
+Create another LAB to achieve the same using "full cloud-init" method.

@@ -1,0 +1,2 @@
+instance-id: splunk-unattended
+local-hostname: splunk-vm
